@@ -1,0 +1,66 @@
+
+body {background-color: #92a8d1;}
+p{
+padding:5px 10px;
+margin: 20px;
+}
+strong{color:red;
+
+padding: 14px 16px;
+font-size: 20px;
+margin: 100px;
+}
+h3{
+  color: blue;
+  text-align: justify;
+  font-size: xx-large;
+}
+
+ 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    
+}
+
+li a {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*
+li a:hover {
+    background-color: #111;
+}
+<div class="navbar navbar-default">
+
+  <ul class="nav navbar-nav">
+
+    <li class="active"> <a href="#">Accueil</a> </li>
+
+    <li> <a href="#">Liens</a> </li>
+
+    <li> <a href="#">Témoignages</a> </li>
+
+    <li class="disabled"> <a href="#">Références</a> </li>
+
+  </ul>
+
+</div>
+*/
+#test{
+ 
+
+}
+

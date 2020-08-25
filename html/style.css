@@ -1,0 +1,72 @@
+<link href="I:\html\css\bootstrap.min.css" rel="stylesheet"/>
+<link rel="stylesheet" href="style.css"/>
+body {background-color: #92a8d1;}
+p{
+padding:5px 10px;
+margin: 20px;
+}
+
+#form{
+ 
+ text-align: center;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#tamer{
+  text-align: justify;
+  padding: 100px;
+  margin-left: 50px;
+  color: black;
+}
+.jumbotron{
+  text-align: center;
+}
+#stage{
+ 
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+  
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    
+}
+
+li a {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*
+li a:hover {
+    background-color: #111;
+}
+<div class="navbar navbar-default">
+
+  <ul class="nav navbar-nav">
+
+    <li class="active"> <a href="#">Accueil</a> </li>
+
+    <li> <a href="#">Liens</a> </li>
+
+    <li> <a href="#">Témoignages</a> </li>
+
+    <li class="disabled"> <a href="#">Références</a> </li>
+
+  </ul>
+
+</div>
+*/
+
+
